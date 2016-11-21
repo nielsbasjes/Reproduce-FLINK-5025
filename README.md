@@ -1,7 +1,9 @@
 Reproduce optimize bug in Flink
 ===============================
 
-This is a minimal reproduction project for this bug https://issues.apache.org/jira/browse/FLINK-5025
+This is a minimal reproduction project for this bug 
+https://issues.apache.org/jira/browse/FLINK-2662
+https://issues.apache.org/jira/browse/FLINK-5025
 
 If I run this I see this error on the screen
 
